@@ -1,2 +1,2 @@
 # Pizzaria
-Pequeno Projeto de uma Pizzaria em C# 
+Pequeno Projeto conceito de uma Pizzaria com classe e objetos em C# 
